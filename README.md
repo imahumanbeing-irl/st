@@ -1,4 +1,4 @@
-# my st
+# gooogle dark st
 ## recommendations
 - install artix linux
 - install my dwm fork too (if you do this dont follow the repeated steps from the dwm fork)
