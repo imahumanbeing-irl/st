@@ -20,6 +20,5 @@ cd st
 mv .fonts.conf ~
 sudo make install
 ```
-
-## color scheme
-uses Google Dark colorscheme from terminal.sexy
+## more
+this is the same as lukesmiths st, i only changed the color scheme, some key bindings and made the terminal opaque
