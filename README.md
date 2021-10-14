@@ -2,6 +2,7 @@
 ## recommendations
 - install artix linux
 - install my dwm fork too (if you do this dont follow the repeated steps from the dwm fork)
+- be me, the creator
 
 ## key bindings
 - ctrl+shift+c to copy
