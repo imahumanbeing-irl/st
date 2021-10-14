@@ -17,3 +17,4 @@ sudo make install
 ```
 
 ## color scheme
+uses Google Dark colorscheme from terminal.sexy
