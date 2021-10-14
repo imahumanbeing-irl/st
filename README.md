@@ -6,7 +6,7 @@
 + alt+shift+j to zoom in
 
 ## installation
-NOTE: this assumes you are using an arch derivative or arch itself, and also assumes you have yay installed
+NOTE: this assumes you are using an arch derivative or arch itself and assumes you have yay installed
 ```
 sudo pacman -S awesome-terminal-fonts
 yay -S nerd-fonts-fira-code (optional)
