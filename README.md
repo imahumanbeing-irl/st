@@ -13,7 +13,7 @@
 NOTE: this assumes you are using an arch derivative or arch itself and assumes you have yay installed
 ```
 sudo pacman -S awesome-terminal-fonts
-yay -S nerd-fonts-fira-code (optional)
+yay -S nerd-fonts-fira-code
 git clone https://github.com/imahumanbeing-irl/st
 cd st
 mv .fonts.conf ~
